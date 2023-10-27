@@ -7,7 +7,7 @@ I'm Shreya, a data science and machine learning enthusiast with a passion for us
 - 🤝 I'm open to collaborate on Data Science, Data Analytics and AI/ML related projects and research.
 - 📫 How to reach me: shreya.v0309@gmail.com
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shreya-venkatapathy-00845026a/">
