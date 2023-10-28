@@ -1,3 +1,6 @@
+<h1 align="center">👋 Hi, I'am Shreya</h1>
+
+
 # 💫 About me 
 
 I'm Shreya, a data science and machine learning enthusiast with a passion for using technology to solve real-world problems. I'm currently an undergraduate student at Vellore Institute of Technology, Chennai, where I'm pursuing a B.Tech. in Computer Science and Engineering.
