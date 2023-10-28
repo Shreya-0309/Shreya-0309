@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'am Shreya</h1>
+<h1 align="center">👋 Hi, I'm Shreya</h1>
 
 
 # 💫 About me 
