@@ -49,8 +49,12 @@ I'm Shreya, a tech enthusiast with a passion to solve real-world problems. I'm c
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya-0309&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-0309&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya-0309&theme=dark&hide_border=false)<br/><br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-0309&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
+</div>
 
 
 
