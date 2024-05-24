@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I'm Shreya</h1>
 
+<img src="https://raw.githubusercontent.com/Shreya-0309/Shreya-0309/main/resources/banner.png" alt="Hello world">
 
 # 💫 About me 
 
-I'm Shreya, a data science and machine learning enthusiast with a passion for using technology to solve real-world problems. I'm currently an undergraduate student at Vellore Institute of Technology, Chennai, where I'm pursuing a B.Tech. in Computer Science and Engineering.
+I'm Shreya, a tech enthusiast with a passion to solve real-world problems. I'm currently an undergraduate student at Vellore Institute of Technology, Chennai, where I'm pursuing a B.Tech. in Computer Science and Engineering.
 
 - 🔭 I’m currently working on Data Analytics and Machine Learning
 - 🌱 I’m currently learning NLP and Deep Learning
